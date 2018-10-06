@@ -1,6 +1,11 @@
 # hackhacktoberfest 
-1. Print Fibonacci series in different languages
-2. Program to find factorial of a number in different languages
-3. Program to check whether a number is prime or not in different languages
-4. Program to check whether a number is palindrome or not in different languages
-5. Program to check whether a string entered is palindrome or not in different languages
+
+Write following programs in different languages
+
+1. Print Fibonacci series 
+2. Program to find factorial of a number 
+3. Program to check whether a number is prime or not 
+4. Program to check whether a number is palindrome or not 
+5. Program to check whether a string entered is palindrome or not
+6. Sum of even numbers upto nth term
+7. Sum of odd numbers upto nth term
