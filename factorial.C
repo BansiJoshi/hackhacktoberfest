@@ -1,7 +1,8 @@
 #include<conio.h>
 #include<stdio.h>
 void main()
-{       int factorial(int);
+{      
+	int factorial(int);
 	int fact,n;
 	printf("Enter the number whose factorial has to be found");
 	scanf("%d",&n);
