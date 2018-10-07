@@ -12,3 +12,4 @@ Write following programs in different languages
 5. Program to check whether a string entered is palindrome or not
 6. Sum of even numbers upto nth term
 7. Sum of odd numbers upto nth term
+8. Reverse given number
